@@ -2,5 +2,5 @@
 \contentsline {chapter}{誌謝}{iii}
 \contentsline {chapter}{摘要}{iv}
 \contentsline {chapter}{Abstract}{v}
-\contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{Bibliography}{2}
+\contentsline {section}{\numberline {0.1}Introduction}{1}
+\contentsline {chapter}{Bibliography}{4}

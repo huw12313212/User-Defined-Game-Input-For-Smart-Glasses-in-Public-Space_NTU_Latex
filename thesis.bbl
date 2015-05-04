@@ -1,8 +1,12 @@
 \begin{thebibliography}{1}
 
-\bibitem{I1}
-{Britannica Encyclopedia}.
-\newblock
-  \url{http://www.britannica.com/EBchecked/topic/329791/language/292862/Most-widely-spoken-languages}.
+\bibitem{MiniGames}
+{Google Glass Mini Games}.
+\newblock \url{https://developers.google.com/glass/samples/mini-games}.
+
+\bibitem{Wobbrock:2005:MGS:1056808.1057043}
+J.~O. Wobbrock, H.~H. Aung, B.~Rothrock, and B.~A. Myers.
+\newblock Maximizing the guessability of symbolic input.
+\newblock CHI EA'05, pages 1869--1872. ACM.
 
 \end{thebibliography}

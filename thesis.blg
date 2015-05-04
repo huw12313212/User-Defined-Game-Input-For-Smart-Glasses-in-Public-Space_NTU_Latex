@@ -2,47 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: abbrv.bst
-Database file #1: reference_.bib
-Warning--to sort, need author or key in I1
-You've used 1 entry,
+Database file #1: reference.bib
+Warning--empty booktitle in Wobbrock:2005:MGS:1056808.1057043
+Warning--empty year in Wobbrock:2005:MGS:1056808.1057043
+You've used 2 entries,
             2118 wiz_defined-function locations,
-            501 strings with 3839 characters,
-and the built_in function-call counts, 177 in all, are:
-= -- 14
-> -- 1
-< -- 0
-+ -- 1
-- -- 0
-* -- 7
-:= -- 25
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 3
+            508 strings with 4025 characters,
+and the built_in function-call counts, 738 in all, are:
+= -- 74
+> -- 24
+< -- 1
++ -- 10
+- -- 8
+* -- 44
+:= -- 103
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 7
-empty$ -- 24
-format.name$ -- 0
-if$ -- 40
+cite$ -- 4
+duplicate$ -- 31
+empty$ -- 66
+format.name$ -- 8
+if$ -- 168
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 7
-num.names$ -- 0
-pop$ -- 11
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 12
+num.names$ -- 2
+pop$ -- 20
 preamble$ -- 1
-purify$ -- 2
+purify$ -- 9
 quote$ -- 0
-skip$ -- 6
+skip$ -- 29
 stack$ -- 0
-substring$ -- 5
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 50
+swap$ -- 13
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 1
-while$ -- 0
-width$ -- 2
-write$ -- 9
-(There was 1 warning)
+type$ -- 8
+warning$ -- 2
+while$ -- 5
+width$ -- 3
+write$ -- 20
+(There were 2 warnings)
