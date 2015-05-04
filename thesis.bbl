@@ -1,12 +1,157 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{aigner2012understanding}
+R.~Aigner, D.~Wigdor, H.~Benko, M.~Haller, D.~Lindbauer, A.~Ion, S.~Zhao, and
+  J.~Koh.
+\newblock Understanding mid-air hand gestures: A study of human preferences in
+  usage of gesture types for hci.
+\newblock {\em Microsoft Research TechReport MSR-TR-2012-111}, 2012.
+
+\bibitem{Anthony:2012:IRC:2396636.2396671}
+L.~Anthony, Q.~Brown, J.~Nias, B.~Tate, and S.~Mohan.
+\newblock Interaction and recognition challenges in interpreting children's
+  touch and gesture input on mobile devices.
+\newblock ITS'12, pages 225--234. ACM.
+
+\bibitem{Baba:2007:VGU:1278280.1278285}
+T.~Baba, T.~Ushiama, R.~Tsuruno, and K.~Tomimatsu.
+\newblock Video game that uses skin contact as controller input.
+\newblock SIGGRAPH'07. ACM.
+
+\bibitem{Chan:2013:FPS:2501988.2502016}
+L.~Chan, R.-H. Liang, M.-C. Tsai, K.-Y. Cheng, C.-H. Su, M.~Y. Chen, W.-H.
+  Cheng, and B.-Y. Chen.
+\newblock Fingerpad: Private and subtle interaction using fingertips.
+\newblock UIST'13. ACM.
+
+\bibitem{Christian:2014:VSI:2559206.2580103}
+S.~Christian, J.~Alves, A.~Ferreira, D.~Jesus, R.~Freitas, and N.~Vieira.
+\newblock Volcano salvation: Interaction through gesture and head tracking.
+\newblock CHI EA'14, pages 297--300. ACM.
+
+\bibitem{Colaco:2013:MCL:2501988.2502042}
+A.~Cola\c{c}o, A.~Kirmani, H.~S. Yang, N.-W. Gong, C.~Schmandt, and V.~K.
+  Goyal.
+\newblock Mime: Compact, low power 3d gesture sensing for interaction with head
+  mounted displays.
+\newblock UIST'13, pages 227--236. ACM.
+
+\bibitem{Grijincu:2014:UIG:2669485.2669511}
+D.~Grijincu, M.~A. Nacenta, and P.~O. Kristensson.
+\newblock User-defined interface gestures: Dataset and analysis.
+\newblock ITS'14, pages 25--34. ACM.
+
+\bibitem{Gustafson:2011:IPL:2047196.2047233}
+S.~Gustafson, C.~Holz, and P.~Baudisch.
+\newblock Imaginary phone: Learning imaginary interfaces by transferring
+  spatial memory from a familiar device.
+\newblock UIST'11, pages 283--292. ACM.
+
+\bibitem{Harada:2011:VGI:2042053.2042059}
+S.~Harada, J.~O. Wobbrock, and J.~A. Landay.
+\newblock Voice games: Investigation into the use of non-speech voice input for
+  making computer games more accessible.
+\newblock INTERACT'11, pages 11--29. Springer-Verlag.
+
+\bibitem{Harrison:2011:OWM:2047196.2047255}
+C.~Harrison, H.~Benko, and A.~D. Wilson.
+\newblock Omnitouch: Wearable multitouch interaction everywhere.
+\newblock UIST'11, pages 441--450. ACM.
+
+\bibitem{Harrison:2010:SAB:1753326.1753394}
+C.~Harrison, D.~Tan, and D.~Morris.
+\newblock Skinput: Appropriating the body as an input surface.
+\newblock CHI'10, pages 453--462. ACM.
+
+\bibitem{Hsu:2014:GSE:2663204.2669623}
+C.-Y. Hsu, Y.-C. Tung, H.-Y. Wang, S.~Chyou, J.-W. Lin, and M.~Y. Chen.
+\newblock Glass shooter: Exploring first-person shooter game control with
+  google glass.
+\newblock ICMI'14, pages 70--71. ACM.
+
+\bibitem{Jing:2013:MRS:2541831.2541875}
+L.~Jing, Z.~Cheng, Y.~Zhou, J.~Wang, and T.~Huang.
+\newblock Magic ring: A self-contained gesture input device on finger.
+\newblock MUM'13, pages 39:1--39:4. ACM.
+
+\bibitem{karam2005taxonomy}
+M.~Karam et~al.
+\newblock A taxonomy of gestures in human computer interactions.
+\newblock 2005.
+
+\bibitem{Kim:2012:DFI:2380116.2380139}
+D.~Kim, O.~Hilliges, S.~Izadi, A.~D. Butler, J.~Chen, I.~Oikonomidis, and
+  P.~Olivier.
+\newblock Digits: Freehand 3d interactions anywhere using a wrist-worn
+  gloveless sensor.
+\newblock UIST'12, pages 167--176. ACM.
+
+\bibitem{Liang:2012:USG:2350046.2350098}
+H.-N. Liang, C.~Williams, M.~Semegen, W.~Stuerzlinger, and P.~Irani.
+\newblock User-defined surface+motion gestures for 3d manipulation of objects
+  at a distance through a mobile device.
+\newblock APCHI'12, pages 299--308. ACM.
 
 \bibitem{MiniGames}
 {Google Glass Mini Games}.
 \newblock \url{https://developers.google.com/glass/samples/mini-games}.
 
+\bibitem{Morris:2012:WWI:2396636.2396651}
+M.~R. Morris.
+\newblock Web on the wall: Insights from a multimodal interaction elicitation
+  study.
+\newblock ITS'12, pages 95--104. ACM.
+
+\bibitem{Nacke:2011:BGD:1978942.1978958}
+L.~E. Nacke, M.~Kalyn, C.~Lough, and R.~L. Mandryk.
+\newblock Biofeedback game design: Using direct and indirect physiological
+  control to enhance game interaction.
+\newblock CHI'11, pages 103--112. ACM.
+
+\bibitem{nielsen2004procedure}
+M.~Nielsen, M.~St{\"o}rring, T.~B. Moeslund, and E.~Granum.
+\newblock A procedure for developing intuitive and ergonomic gesture interfaces
+  for hci.
+\newblock In {\em Gesture-Based Communication in Human-Computer Interaction},
+  pages 409--420. Springer, 2004.
+
+\bibitem{Piumsomboon:2013:UGA:2468356.2468527}
+T.~Piumsomboon, A.~Clark, M.~Billinghurst, and A.~Cockburn.
+\newblock User-defined gestures for augmented reality.
+\newblock CHI'13, pages 955--960, New York, NY, USA. ACM.
+
+\bibitem{Pyryeskin:2012:CEG:2396636.2396638}
+D.~Pyryeskin, M.~Hancock, and J.~Hoey.
+\newblock Comparing elicited gestures to designer-created gestures for
+  selection above a multitouch surface.
+\newblock ITS'12, pages 1--10. ACM.
+
+\bibitem{Serrano:2014:EUH:2611247.2556984}
+M.~Serrano, B.~M. Ens, and P.~P. Irani.
+\newblock Exploring the use of hand-to-face input for interacting with
+  head-worn displays.
+\newblock CHI'14, pages 3181--3190. ACM.
+
+\bibitem{Sporka:2006:NIS:1168987.1169023}
+A.~J. Sporka, S.~H. Kurniawan, M.~Mahmud, and P.~Slav\'{\i}k.
+\newblock Non-speech input and speech recognition for real-time control of
+  computer games.
+\newblock Assets'06, pages 213--220. ACM.
+
+\bibitem{Vickers:2013:PLT:2531922.2514856}
+S.~Vickers, H.~Istance, and A.~Hyrskykari.
+\newblock Performing locomotion tasks in immersive computer games with an
+  adapted eye-tracking interface.
+\newblock {\em ACM Trans. Access. Comput.}, 5(1):2:1--2:33, Sept. 2013.
+
 \bibitem{Wobbrock:2005:MGS:1056808.1057043}
 J.~O. Wobbrock, H.~H. Aung, B.~Rothrock, and B.~A. Myers.
 \newblock Maximizing the guessability of symbolic input.
 \newblock CHI EA'05, pages 1869--1872. ACM.
+
+\bibitem{Wobbrock:2009:UGS:1518701.1518866}
+J.~O. Wobbrock, M.~R. Morris, and A.~D. Wilson.
+\newblock User-defined gestures for surface computing.
+\newblock CHI'09, pages 1083--1092. ACM.
 
 \end{thebibliography}

@@ -1,25 +1,27 @@
 \chapter{Related Work}
 \label{c:related work}
+\section{Game Input}
 
-Related works fall within two areas: cooperative game design, and body language.
+    There are many previous works exploring new kinds of game controls and pushing the limit of game design. Vickers et al.\cite{Vickers:2013:PLT:2531922.2514856} showed the possibility to use eye gestures as game inputs; Christian et al.\cite{Christian:2014:VSI:2559206.2580103} provided novel techniques for users to interact with games by head-gesture; 
+    Harada et al.\cite{Harada:2011:VGI:2042053.2042059} and Sporka et al.\cite{Sporka:2006:NIS:1168987.1169023} both indicated that the voice input greatly expanded the scope of games that could be played hands-free and just counted on voice input; 
+    Baba et al.\cite{Baba:2007:VGU:1278280.1278285} presented a game prototype which treated skin contact as controller input; Nacke et al.\cite{Nacke:2011:BGD:1978942.1978958} even considered using biofeedback (including EMG, EDA, EKG, RESP, TEMP) as game input methods;
+    Hsu et al.\cite{Hsu:2014:GSE:2663204.2669623} compared different game inputs, including head gestures, voice control, handheld controller, joysticks, eye winking and glass touchpad, for First-Person Shooter(FPS) games on smart glasses. 
 
-\section{Cooperative Game Design}
 
-Several prior works have explored and analyzed cooperative game design patterns. Zagal et al. explored cooperative patterns within board games and yielded some observations that game designers might consider useful for designing collaborative game \cite{CG1}, and it also presented an ontology with a view to analyzing game play \cite{CG3}. 
-Bjork and Holopainen presented a large quantity of game design patterns \cite{CG2}, including cooperative and social interaction patterns.
-Rocha et al. presented a framework of several cooperative game design patterns and analyzed the actual impact of using these game mechanics to design a cooperative video game \cite{CG4}.
-El-Nasr et al. extended Rocha et al.'s model and proposed Cooperative Performance Metrics (CPMs) to evaluate game experience \cite{CPMs}.
+    \section{Mobile Input Technology}
+    Some works related to mobile systems had defined designer-made input methods. These systems could be divided into two main categories, \emph{touch} and \emph{non-touch} inputs. 
 
-Wolmet et al. reported a study of how parents and children play several cooperative co-located games with different characteristics \cite{CG5}. 
-Mark et al. \cite{CG6} evaluated the communicative and cooperative behavior of same-age and mixed-age pairs (Young-Young, Young-Old, Old-Old), and identified noticeable difference between group types. 
-Hamilton et al. \cite{CG7} explored how to design games for children to play with cerebral palsy, and it also presented several cooperative gameplay prototypes.
+    Harrison et al.\cite{Harrison:2011:OWM:2047196.2047255} created \textsl{OmniTouch}, a wearable depth-sensing and projected system that enables interactive multitouch applications on any surface of the user's body. Moreover, \textsl{Skinput}\cite{Harrison:2010:SAB:1753326.1753394}, a technology that appropriates the human body for acoustic transmission, and allows the skin to be used as an input surface. Chan et al. presented FingerPad\cite{Chan:2013:FPS:2501988.2502016}, a nail-mounted device that turns the tip of the index finger into a touchpad, allowing private and subtle interaction while on the move. Baudisch et al.\cite{Gustafson:2011:IPL:2047196.2047233} illustrated a concept of imaginary interface with sensing several gestures on the user's palms. Recently, Serrano et al.\cite{Serrano:2014:EUH:2611247.2556984} explored the use of \textsl{Hand-to-Face} input to interact with head-worn displays(HWD) and provided a set of guidelines for developing effective Hand-to-Face interactions based on two main factors they found, social acceptability and cultural effect.
 
-In our work, we explored and evaluated the possibility to use body language as a communication manner in cooperative game design, and analyzed the communication pattern with players.
+    Kim et al.\cite{Kim:2012:DFI:2380116.2380139} developed a wrist-worn architecture, which supports discrete gesture recognition with reconstructing a 3D hand model in the air. Similarly, Jing et al.\cite{Jing:2013:MRS:2541831.2541875} implemented \textsl{Magic Ring}, a finger ring shaped input device using inertial sensors to detect subtle finger gestures; Cola\c{c}o et al.\cite{Colaco:2013:MCL:2501988.2502042} built a head-mounted display, \textsl{Mime}, sensing 3D gestures in front of the user's eyes. 
 
-\section{Body Language}
+    \section{Gestures in HCI}
+    Gesture-based interfaces are already common in a variety of application domains such as gaming, virtual or augmented reality and mobile devices\cite{karam2005taxonomy}. Aigner et al.\cite{aigner2012understanding} conducted a study of human preferences in usage of gesture types for HCI and indicated that, depending on the meaning of the gesture, there is preference in the usage of gesture types;
+    Nielsen et al.\cite{nielsen2004procedure} pointed out some important issues in choosing the set of gestures for the interface from a user-centred view such as the learning rate, ergonomics, and intuition;
+    Grijincu et al.\cite{Grijincu:2014:UIG:2669485.2669511} presented a video-based gesture dataset and a methodology for annotating video-based gesture datasets; 
+    Recently, Piumsomboon et al.\cite{Piumsomboon:2013:UGA:2468356.2468527} have developed a user-defined gesture set for augmented reality applications. In our work, we focus on exploring relevant input gestures for gaming on smart glasses in public space.
 
-Consist of human communication, there is not only speech but also inclusive of various gestures and body motions. Body language, a non-verbal way to transmit your thoughts without verbalizing. According to The 7\% Rule\cite{GD2}, the influence of communication for verbal is only 7\% but is 93\% for non-verbal expression. And the non-varbal expression is made up of body language (55\%) and tones of voice (38\%).
+    \section{User Elicitation Studies}
+    User-elicitation studies are a specific type of participatory design methodology that involves end-users in the design of control-sets\cite{Morris:2012:WWI:2396636.2396651}. These studies had been used to design user interfaces of various types including multi-touch gestures on small and large surfaces\cite{Anthony:2012:IRC:2396636.2396671,Wobbrock:2009:UGS:1518701.1518866} and multi-modal interactions \cite{Morris:2012:WWI:2396636.2396651,Liang:2012:USG:2350046.2350098}. There is also some evidence that user-defined control sets are more complete than those sets defined solely by experts\cite{Pyryeskin:2012:CEG:2396636.2396638,Wobbrock:2009:UGS:1518701.1518866}.
 
-Charades\cite{GD3} is a word guessing game. It is an acting game in which one player act as a word or a phrase, and sometimes imitates a similar pronounced words, while the other players guess the answer. The main idea is to use the body to make physical expression rather than using verbal language. 
-
-Inspired by The 7\% Rule and the Charades, we suggested using body language as a communication manner in cooperative game to normalize player's communication skill. With this idea, whether players are playing with different language speakers or not, their communication skill is near enough for a game developer to design a proper difficulty to entertain players. On the other hand, many researchers have argued that the body movement brings about a positive emotional and social response \cite{GD7, GD8, GD9}. We believe that body language communication should enhance game engagement and enjoyment.
+    In a user-elicitation study, users were shown referents (an action's effects) and were asked to demonstrate the interactions that resulted in a given referent\cite{Wobbrock:2009:UGS:1518701.1518866}. In this work, we draw upon the user-elicitation methodology to identify user expectations and suggestions for smart glass gaming.

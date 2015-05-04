@@ -2,5 +2,10 @@
 \contentsline {chapter}{誌謝}{iii}
 \contentsline {chapter}{摘要}{iv}
 \contentsline {chapter}{Abstract}{v}
-\contentsline {section}{\numberline {0.1}Introduction}{1}
-\contentsline {chapter}{Bibliography}{4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Related Work}{5}
+\contentsline {section}{\numberline {2.1}Game Input}{5}
+\contentsline {section}{\numberline {2.2}Mobile Input Technology}{5}
+\contentsline {section}{\numberline {2.3}Gestures in HCI}{6}
+\contentsline {section}{\numberline {2.4}User Elicitation Studies}{6}
+\contentsline {chapter}{Bibliography}{8}
