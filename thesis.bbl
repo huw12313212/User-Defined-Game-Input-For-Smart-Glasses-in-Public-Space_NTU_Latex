@@ -13,10 +13,25 @@ L.~Anthony, Q.~Brown, J.~Nias, B.~Tate, and S.~Mohan.
   touch and gesture input on mobile devices.
 \newblock ITS'12, pages 225--234. ACM.
 
+\bibitem{appannie}
+{App Annie}.
+\newblock \url{http://www.appannie.com}.
+
 \bibitem{Baba:2007:VGU:1278280.1278285}
 T.~Baba, T.~Ushiama, R.~Tsuruno, and K.~Tomimatsu.
 \newblock Video game that uses skin contact as controller input.
 \newblock SIGGRAPH'07. ACM.
+
+\bibitem{Biskupski:2014:DEB:2559206.2580097}
+A.~Biskupski, A.~R. Fender, T.~M. Feuchtner, M.~Karsten, and J.~D. Willaredt.
+\newblock Drunken ed: A balance game for public large screen displays.
+\newblock CHI EA'14, pages 289--292. ACM.
+
+\bibitem{Chan:2015}
+L.~Chan, C.-H. Hsieh, Y.-L. Chen, S.~Yang, D.-Y. Huang, R.-H. Liang, and B.-Y.
+  Chen.
+\newblock Cyclops: Wearable and single-piece full-body gesture input device.
+\newblock CHI'15. ACM.
 
 \bibitem{Chan:2013:FPS:2501988.2502016}
 L.~Chan, R.-H. Liang, M.-C. Tsai, K.-Y. Cheng, C.-H. Su, M.~Y. Chen, W.-H.
@@ -35,6 +50,32 @@ A.~Cola\c{c}o, A.~Kirmani, H.~S. Yang, N.-W. Gong, C.~Schmandt, and V.~K.
 \newblock Mime: Compact, low power 3d gesture sensing for interaction with head
   mounted displays.
 \newblock UIST'13, pages 227--236. ACM.
+
+\bibitem{DollarN}
+{Dollar N Multistroke Recognizer}.
+\newblock \url{http://depts.washington.edu/aimgroup/proj/dollar/ndollar.html}.
+
+\bibitem{Epps:2006:SHS:1125451.1125601}
+J.~Epps, S.~Lichman, and M.~Wu.
+\newblock A study of hand shape use in tabletop gesture interaction.
+\newblock CHI'06, pages 748--753.
+
+\bibitem{BT100}
+{Epson BT-100 Specs.}
+\newblock
+  \url{http://www.epson.com.au/products/ProjectorAccessories/Moverio_BT-100_specs.asp}.
+
+\bibitem{esa_ef_2014}
+{Essential Facts About The Computer And Video Game Industry}.
+\newblock \url{http://www.theesa.com/facts/pdfs/esa_ef_2014.pdf}.
+
+\bibitem{GameStop}
+{GameStop}.
+\newblock \url{http://www.gamestop.com}.
+
+\bibitem{GoogleGlass}
+{Google Glass wiki.}
+\newblock \url{http://en.wikipedia.org/wiki/Google_Glass#Features}.
 
 \bibitem{Grijincu:2014:UIG:2669485.2669511}
 D.~Grijincu, M.~A. Nacenta, and P.~O. Kristensson.
@@ -74,6 +115,10 @@ L.~Jing, Z.~Cheng, Y.~Zhou, J.~Wang, and T.~Huang.
 \newblock Magic ring: A self-contained gesture input device on finger.
 \newblock MUM'13, pages 39:1--39:4. ACM.
 
+\bibitem{kappavalue}
+{Cohen's kappa - Wikipedia, the free encyclopedia}.
+\newblock \url{http://en.wikipedia.org/wiki/Cohen's_kappa}.
+
 \bibitem{karam2005taxonomy}
 M.~Karam et~al.
 \newblock A taxonomy of gestures in human computer interactions.
@@ -95,6 +140,12 @@ H.-N. Liang, C.~Williams, M.~Semegen, W.~Stuerzlinger, and P.~Irani.
 \bibitem{MiniGames}
 {Google Glass Mini Games}.
 \newblock \url{https://developers.google.com/glass/samples/mini-games}.
+
+\bibitem{Montero:2010:YUS:1851600.1851647}
+C.~S. Montero, J.~Alexander, M.~T. Marshall, and S.~Subramanian.
+\newblock Would you do that?: Understanding social acceptance of gestural
+  interfaces.
+\newblock MobileHCI'10, pages 275--278. ACM.
 
 \bibitem{Morris:2012:WWI:2396636.2396651}
 M.~R. Morris.
@@ -126,6 +177,11 @@ D.~Pyryeskin, M.~Hancock, and J.~Hoey.
   selection above a multitouch surface.
 \newblock ITS'12, pages 1--10. ACM.
 
+\bibitem{Reis:2012:EMC:2405577.2405651}
+S.~Reis.
+\newblock Expanding the magic circle in pervasive casual play.
+\newblock ICEC'12, pages 486--489. Springer-Verlag.
+
 \bibitem{Serrano:2014:EUH:2611247.2556984}
 M.~Serrano, B.~M. Ens, and P.~P. Irani.
 \newblock Exploring the use of hand-to-face input for interacting with
@@ -138,11 +194,28 @@ A.~J. Sporka, S.~H. Kurniawan, M.~Mahmud, and P.~Slav\'{\i}k.
   computer games.
 \newblock Assets'06, pages 213--220. ACM.
 
+\bibitem{Steam}
+{Steam}.
+\newblock \url{http://store.steampowered.com}.
+
+\bibitem{TopGames}
+{Top 90 Casual Games List}.
+\newblock \url{http://ppt.cc/hO2j}, Analyzed at 2014-08-14.
+
+\bibitem{VGChartz}
+{VGChartz}.
+\newblock \url{http://www.vgchartz.com}.
+
 \bibitem{Vickers:2013:PLT:2531922.2514856}
 S.~Vickers, H.~Istance, and A.~Hyrskykari.
 \newblock Performing locomotion tasks in immersive computer games with an
   adapted eye-tracking interface.
 \newblock {\em ACM Trans. Access. Comput.}, 5(1):2:1--2:33, Sept. 2013.
+
+\bibitem{Williamson:2013:MEM:2522848.2522874}
+J.~R. Williamson, S.~Brewster, and R.~Vennelakanti.
+\newblock Mo!games: Evaluating mobile gestures in the wild.
+\newblock ICMI'13, pages 173--180. ACM.
 
 \bibitem{Wobbrock:2005:MGS:1056808.1057043}
 J.~O. Wobbrock, H.~H. Aung, B.~Rothrock, and B.~A. Myers.

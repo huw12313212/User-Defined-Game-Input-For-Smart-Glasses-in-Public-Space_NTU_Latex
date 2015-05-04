@@ -8,4 +8,33 @@
 \contentsline {section}{\numberline {2.2}Mobile Input Technology}{5}
 \contentsline {section}{\numberline {2.3}Gestures in HCI}{6}
 \contentsline {section}{\numberline {2.4}User Elicitation Studies}{6}
-\contentsline {chapter}{Bibliography}{8}
+\contentsline {chapter}{\numberline {3}Developing a User-Defined Game Input Set}{8}
+\contentsline {section}{\numberline {3.1}Overview}{8}
+\contentsline {section}{\numberline {3.2}Interaction Methods}{9}
+\contentsline {section}{\numberline {3.3}Game Tasks}{9}
+\contentsline {section}{\numberline {3.4}Form Factor of Glasses}{10}
+\contentsline {section}{\numberline {3.5}Participants}{11}
+\contentsline {section}{\numberline {3.6}Environment}{11}
+\contentsline {section}{\numberline {3.7}Procedure}{11}
+\contentsline {chapter}{\numberline {4}Results}{13}
+\contentsline {section}{\numberline {4.1}Preference Between Interaction Methods}{13}
+\contentsline {section}{\numberline {4.2}Behavior with Different Form Factor of Glasses}{14}
+\contentsline {section}{\numberline {4.3}Classification of Game Inputs}{14}
+\contentsline {subsection}{\numberline {4.3.1}Taxonomy of Game Input}{14}
+\contentsline {subsection}{\numberline {4.3.2}Taxonometric Breakdown of Input Actions in our Data}{16}
+\contentsline {section}{\numberline {4.4}User-Defined Game Input Set}{18}
+\contentsline {subsection}{\numberline {4.4.1}Agreement}{18}
+\contentsline {subsection}{\numberline {4.4.2}Properties of the User-defined Game Input Set}{20}
+\contentsline {subsection}{\numberline {4.4.3}Taxonometric Breakdown of User-Defined Game Inputs}{21}
+\contentsline {section}{\numberline {4.5}Mental Model Observations}{21}
+\contentsline {subsection}{\numberline {4.5.1}Social Acceptance and Input Area}{21}
+\contentsline {subsection}{\numberline {4.5.2}Bias by Existing Game Input}{22}
+\contentsline {subsection}{\numberline {4.5.3}Identical Gestures on Different Surfaces}{22}
+\contentsline {chapter}{\numberline {5}Discussion}{24}
+\contentsline {section}{\numberline {5.1}Implications for Touch Input Technology}{24}
+\contentsline {section}{\numberline {5.2}Implications for Non-Touch Interaction Technology}{24}
+\contentsline {section}{\numberline {5.3}Implications for Game Design}{26}
+\contentsline {section}{\numberline {5.4}Contribution to non-gaming scenarios}{27}
+\contentsline {section}{\numberline {5.5}Limitation and Next Steps}{27}
+\contentsline {section}{\numberline {5.6}Conclusion}{28}
+\contentsline {chapter}{Bibliography}{29}

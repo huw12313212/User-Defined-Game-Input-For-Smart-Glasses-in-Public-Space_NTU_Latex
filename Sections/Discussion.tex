@@ -1,93 +1,45 @@
 \chapter{Discussion}
 
-\section{Consistency in Game Experience}
-
-
-Figure~\ref{fig:US_Consistent_Speaking} shows the eSFQ game experience ratings for players with and without common languages, when communicating only by speaking. The experience ratings by the two player groups varied significantly. However, as shown in Figure~\ref{fig:US_Consistent_Bodylanguage}, the ratings between players with and without common languages was much more consistent when communicating via only body language. The average absolute difference in ratings was 22.4\% across the 8 indexes when communicating by speaking, compared to 6.25\% by body language only.
-
-\begin{figure}[!h]
-\centering
-\includegraphics[width=1.0\columnwidth]{Figures/US_Consistent_Speaking.pdf}
-\caption{Index patterns of eSFQ game experience rating for speaking}
-\label{fig:US_Consistent_Speaking}
-\end{figure}
-
-\begin{figure}[!h]
-\centering
-\includegraphics[width=1.0\columnwidth]{Figures/US_Consistent_Bodylanguage.pdf}
-\caption{Index patterns of eSFQ game experience rating for body language}
-\label{fig:US_Consistent_Bodylanguage}
-\end{figure}
+    \section{Implications for Touch Input Technology}
+    Our results showed that the hand palm was the most favorite area for users to perform \emph{touch} inputs on. Half of the game inputs with \emph{touch} input used a finger to perform a gesture on the palm (See Figure \ref{fig:figureOnBodyPorpotion}). According to the mental model mentioned above, users utilized the metaphor of a trackpad and a touch-screen on the palm in several cases. Since this metaphor leads to the same input actions as on trackpads and touch-screens, current gesture interpreting algorithms like Dollar N\cite{DollarN} could be employed here.
 
 
 
-\section{Communication Patterns}
-We summarize the communication patterns we observed when participants were communicated by: speaking, body language, and both speaking and body language.
 
-\subsection{Speaking}
-For participants with common languages, communicating by speaking was straight-forward. For participants without common languages, although there were language barriers, they still found ways communicate with each other by tones, short words, and sounds.
+  \begin{figure}
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/OnBodyInputSet}
+  \caption{The user-defined game input set with \emph{touch} inputs. The percentages indicate the portion of users who performed the pictured input action for the game task. Note that, there are 3 tasks (``Move in 4 directions'', ``Avatar 3D Move'', and ``Control 3D viewport'') have been assigned with an identical input action.}
+  \label{fig:OnBodyInputSet}
+  \end{figure}
 
-\begin{enumerate}
-   \item Simple words: participants spoke simple words and short sentences. For example, Japanese speakers would say ``hai (yes)'', ``ie (no)'', ``koko (here)'', and ``soko (there)''.
-   
-     \item Repeating continuously: participants often repeated the same simple words until the other player performed the corresponding action. For example, Japanese speakers would repeat ``kuru (come)'' until the the other player come. The player receiving the words would try different actions until the repeating stops. 
-  
-     \item Emphasized tones: participants frequently used different tones to express doing things right vs doing things wrong. They often used calm and longer repeating tones to express doing alright, and used urgent repeating tones to express doing things wrong. For example, Japanese speakers would say ``hai (yes)'' in a calm tone to express correct, and say ``ie (no)'' in an urgent tone to express wrong.
+  \begin{figure}
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/InAirSet}
+  \caption{The user-defined game input set with \emph{non-touch} interaction, The percentages indicate the portion of users who performed the pictured input action for the game task.}
+  \label{fig:InAirSet}
+  \end{figure}
 
-  
-  \item Sound imitation: we observed participants mimicking animals' sounds to express the corresponding animals, such as roosters.
-\end{enumerate}
-
-\subsection{Body Language}
-We observed similar body languages communication for players with and without common languages. We summarize them below:
-
-\begin{enumerate}
-  \item Divide and conquer: player who received puzzle-solving hints would perform one action at a time, then stops until the other player completes the corresponding action. For example, a player jumped in a particular place several times in order to imply that the other player should move to and jump at the corresponding position (see Figure~\ref{fig:US_F2}). This was the most frequently used communication pattern.
-
-  \item Repeat it all: player who received the puzzle-solving hints would perform all the actions in one go before stopping for the other player to follow. For example, in one of our game stages shown in Figure~\ref{fig:US_F2}, the 3 buttons on the floor had to be stepped on one after another in a specific order. The top player would perform the sequence all at once for the bottom player to repeat. 
-                                   
-  \item Pictogram: players would use their own body to express and mimic the hints. As shown in Figure~\ref{fig:US_F3}, one participant wanted to express the letter ``N'' to the other player. Her solution was using her body to perform a pictogram.
-\end{enumerate}
-
-\begin{figure}[!t]
-\centering
-\includegraphics[width=0.7\columnwidth]{Figures/US_F2.jpg}
-\caption{A sequence puzzle from Mute Robot. The top player knows the correct sequence and is showing the bottom player to move to and jump on the center yellow button among the three buttons.}
-\label{fig:US_F2}
-\end{figure}
-
-\begin{figure}[!t]
-\centering
-\includegraphics[width=0.4\columnwidth]{Figures/US_F3.jpg}
-\caption{A participant performing a pictogram (the letter ``N'') using body language.}
-\label{fig:US_F3}
-\end{figure}
+    \section{Implications for Non-Touch Interaction Technology}
+    For \emph{non-touch} interaction methods, our taxonomy shows that performing in-air gestures with fingers and hands are still the dominant forms for smart glass gaming (Figure \ref{fig:figureInAirPorpotion}.1\{A,B\}). There was only a small number of participants that used head-gestures, eye-gestures or voice controls, 7\%, 3\% and 1\% respectively.
+    Before our study, both Google Glass and Mime\cite{GoogleGlass, Colaco:2013:MCL:2501988.2502042} supplied their own in-air gesture sets to increase the diversity of their input. However, our results show that 63\% of the in-air gestures are not performed in front of the user's face in the public space due to the social acceptance issues and physical tiring problems mentioned before (see Figure \ref{fig:figureInAirPorpotion}.2). Therefore, if the developers of head-worn devices want to implement in-air gestures for input, they will need to have the capability to sense gestures in a wide range of areas near the user other than only right in front of the face. Take CV-based sensing technologies for example, instead of a regular lens, we could use a wide-angle lens or fish-eye lens to implement a system to cater to the user's preference \cite{Chan:2015}.
+  \begin{figure}[!h]
+  \centering
+  \includegraphics[width=0.8\columnwidth]{Figures/InAirControlArea}
+  \caption{1.The top 4 \emph{non-touch} interaction forms. Percentages indicate the portion of \emph{non-touch} game inputs that consisted of the pictured input. (A)Using a finger to perform an in-air gesture. (B)Using the full hand to perform an in-air gesture. (C)Using head-tilting to perform game input. (D)Using eye-gestures to perform game input. 2.The distribution of the in-air gesture input area. Half of the in-air gestures (49\%) were performed in front of the chest, 14\% in front of or below the belly, and only 37\% of the gestures were performed in front of the face.}
+  \label{fig:figureInAirPorpotion}
+  \end{figure}
 
 
-\subsection{Both Speaking and Body Language}
-When both speaking and body language were available for communication, the players without common languages primarily used body language communication, and used tones and word to facilitate, such as when confirming a correct action. Players with common languages primarily communicated by speaking, and used body language to facilitate. 
+  \section{Implications for Game Design}
+  According to the agreement scores we found that, no matter if using \emph{touch} interaction or \emph{non-touch} input, the average agreement between users was only .26, and the highest agreement was just about .55 (see Figure \ref{fig:Agreement}). In this case, guessing the game inputs would become a frustrating experience for players. It indicated that game developers should design the visual guide carefully to lead users performing the input action, or show an instruction to explain the input methods.
+
+  \section{Contribution to non-gaming scenarios}
+  When we first set out to explore interaction design for smart glasses, we focused on a specific domain in order to gain deeper insight and to keep the study tractable. Looking back at the results, some the study findings do apply to non-gaming scenarios. For example, many of our tasks are also used in non-gaming applications, such as ``Select single from many'', ``Vertical menu'', ``Horizontal menu'', ``Move left and right'', ``Move in 4 directions'', ``Move object to position'', ``Draw a path'' and ``Rotate an object''. Also, study results showed several facts that are useful for general cases: (1) Social acceptance of input is a significant concern in public space; (2) Performing in-air gestures in front of the face is weird and not socially acceptable; (3) If the input surface does not have an influence on the meaning of the gestures, users prefer to perform the gestures on a surface reached with least movement.
+  \section{Limitation and Next Steps}
 
 
 
-\section{Player Feedback}
-We summarize participants' feedback below:
-\begin{enumerate}
-  \item Fun: players reported that adding body language to cooperative gameplay enhanced gaming experience and enjoyment. For example, one participant reported ``body language is intuitive, without restriction, really funny and becoming an innovative way for a cooperative game.'' (P34), and another reported
-	``For cooperative games, it's nice to be possible to be mis-understood, add something new to the gameplay'' (P18).
+  As we know, there are many different places known as public space, and users may behave differently in each specific place. Furthermore, in our study, we did not ask users to define any input actions to interact with tangible objects in public space, such as, tables or chairs in the cafe shop. We only made participants experience two types of smart glasses. Therefore, our user-defined game input set might not be suitable to be applied to games on other types of head-worn devices. Moreover, our participants were all literate Taiwanese adults; undoubtedly, children, elders, participants from other cultures, or uneducated participants would behave differently. That is to say, these issues are worthy of investigation, but exceed the range of our current work.
 
-  \item Voice: players found that voice improved the gaming experience compared to only using body language. For example, one participant reported that ``it is too silent when playing with only body language, I feel less lonely with voice.'' (P5) and another said ``it is more fun to hear the other player in addition to body language'' (P19).
-
-
-  \item Interactivity: players reported that having body language enriched the game's interactivity. For example, players reported ``Body language provides more challenges and feels like really playing with my partner.''(P37), ``I feel embarrassed talking to a stranger, but using body language is not.'' (P23), and another player reported ``It's great to move your body, and it's more interactive'' (P11). 
-
-
-  \item Preferred communication methods: one player reported ``Using body language to communicate is more challenging, and more rewarding.''(P37), yet another player reported preference for having both speaking and body language because ``you can use whatever you prefer to communication to your partner to convey your meaning.''(P48). 
-
-\end{enumerate}
-
-
-
-\section{System Limitation}
-Our prototype currently uses version 1 of the Kinect sensors, which can only track the major skeletal movements (head, torso, arms, and legs). It could not track more subtle expression such as eyes and facial expression, that are also important for non-verbal communication. In addition, it can not track finger and hand movement. As one participant reported: ``The avatar can't fully express what people can express, like emotional reaction.''
-
-We plan to use improved sensors, such as the Kinect v2 sensors, that can capture players' more subtle movements such as hands and fingers. Furthermore, we plan to use computer vision techniques to capture and relay players' facial expressions.
+  An important next step is to validate our user-defined game input set with a wearable system, which can sense all \emph{touch} and \emph{non-touch} input actions listed in our set.   

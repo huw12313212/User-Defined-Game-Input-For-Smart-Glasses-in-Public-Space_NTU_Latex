@@ -7,12 +7,18 @@ Warning--empty booktitle in Anthony:2012:IRC:2396636.2396671
 Warning--empty year in Anthony:2012:IRC:2396636.2396671
 Warning--empty booktitle in Baba:2007:VGU:1278280.1278285
 Warning--empty year in Baba:2007:VGU:1278280.1278285
+Warning--empty booktitle in Biskupski:2014:DEB:2559206.2580097
+Warning--empty year in Biskupski:2014:DEB:2559206.2580097
+Warning--empty booktitle in Chan:2015
+Warning--empty year in Chan:2015
 Warning--empty booktitle in Chan:2013:FPS:2501988.2502016
 Warning--empty year in Chan:2013:FPS:2501988.2502016
 Warning--empty booktitle in Christian:2014:VSI:2559206.2580103
 Warning--empty year in Christian:2014:VSI:2559206.2580103
 Warning--empty booktitle in Colaco:2013:MCL:2501988.2502042
 Warning--empty year in Colaco:2013:MCL:2501988.2502042
+Warning--empty booktitle in Epps:2006:SHS:1125451.1125601
+Warning--empty year in Epps:2006:SHS:1125451.1125601
 Warning--empty booktitle in Grijincu:2014:UIG:2669485.2669511
 Warning--empty year in Grijincu:2014:UIG:2669485.2669511
 Warning--empty booktitle in Gustafson:2011:IPL:2047196.2047233
@@ -32,6 +38,8 @@ Warning--empty booktitle in Kim:2012:DFI:2380116.2380139
 Warning--empty year in Kim:2012:DFI:2380116.2380139
 Warning--empty booktitle in Liang:2012:USG:2350046.2350098
 Warning--empty year in Liang:2012:USG:2350046.2350098
+Warning--empty booktitle in Montero:2010:YUS:1851600.1851647
+Warning--empty year in Montero:2010:YUS:1851600.1851647
 Warning--empty booktitle in Morris:2012:WWI:2396636.2396651
 Warning--empty year in Morris:2012:WWI:2396636.2396651
 Warning--empty booktitle in Nacke:2011:BGD:1978942.1978958
@@ -40,53 +48,57 @@ Warning--empty booktitle in Piumsomboon:2013:UGA:2468356.2468527
 Warning--empty year in Piumsomboon:2013:UGA:2468356.2468527
 Warning--empty booktitle in Pyryeskin:2012:CEG:2396636.2396638
 Warning--empty year in Pyryeskin:2012:CEG:2396636.2396638
+Warning--empty booktitle in Reis:2012:EMC:2405577.2405651
+Warning--empty year in Reis:2012:EMC:2405577.2405651
 Warning--empty booktitle in Serrano:2014:EUH:2611247.2556984
 Warning--empty year in Serrano:2014:EUH:2611247.2556984
 Warning--empty booktitle in Sporka:2006:NIS:1168987.1169023
 Warning--empty year in Sporka:2006:NIS:1168987.1169023
+Warning--empty booktitle in Williamson:2013:MEM:2522848.2522874
+Warning--empty year in Williamson:2013:MEM:2522848.2522874
 Warning--empty booktitle in Wobbrock:2005:MGS:1056808.1057043
 Warning--empty year in Wobbrock:2005:MGS:1056808.1057043
 Warning--empty booktitle in Wobbrock:2009:UGS:1518701.1518866
 Warning--empty year in Wobbrock:2009:UGS:1518701.1518866
-You've used 27 entries,
+You've used 43 entries,
             2118 wiz_defined-function locations,
-            655 strings with 9841 characters,
-and the built_in function-call counts, 13008 in all, are:
-= -- 1329
-> -- 628
-< -- 21
-+ -- 249
-- -- 220
-* -- 910
-:= -- 1936
-add.period$ -- 103
-call.type$ -- 27
-change.case$ -- 191
+            730 strings with 11976 characters,
+and the built_in function-call counts, 17485 in all, are:
+= -- 1767
+> -- 770
+< -- 26
++ -- 312
+- -- 266
+* -- 1149
+:= -- 2521
+add.period$ -- 146
+call.type$ -- 43
+change.case$ -- 272
 chr.to.int$ -- 0
-cite$ -- 72
-duplicate$ -- 524
-empty$ -- 953
-format.name$ -- 220
-if$ -- 2869
+cite$ -- 100
+duplicate$ -- 717
+empty$ -- 1404
+format.name$ -- 266
+if$ -- 3908
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 26
-newline$ -- 137
-num.names$ -- 52
-pop$ -- 268
+int.to.str$ -- 43
+missing$ -- 32
+newline$ -- 207
+num.names$ -- 64
+pop$ -- 429
 preamble$ -- 1
-purify$ -- 164
+purify$ -- 229
 quote$ -- 0
-skip$ -- 432
+skip$ -- 604
 stack$ -- 0
-substring$ -- 827
-swap$ -- 210
-text.length$ -- 21
+substring$ -- 1068
+swap$ -- 271
+text.length$ -- 26
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 108
-warning$ -- 45
-while$ -- 117
-width$ -- 29
-write$ -- 292
-(There were 45 warnings)
+type$ -- 172
+warning$ -- 57
+while$ -- 144
+width$ -- 45
+write$ -- 426
+(There were 57 warnings)

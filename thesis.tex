@@ -7,6 +7,13 @@
 \usepackage{graphicx}
 \usepackage{array}
 
+\usepackage{balance}  % to better equalize the last page
+\usepackage{makecell}
+\usepackage{changepage}
+\usepackage{mathtools}
+
+\newcommand\tabhead[1]{\small\textbf{#1}}
+
 % Using the tex-text mapping for ligatures etc.
 \defaultfontfeatures{Mapping=tex-text}
 
@@ -37,11 +44,10 @@
 % Your thesis goes here
 \input{Sections/Introduction}
 \input{Sections/RelatedWork}
-%\input{Sections/CrossLanguageStudy}
-%\input{Sections/GameDesign}
-%\input{Sections/UserStudy}
-%\input{Sections/Discussion}
-%\input{Sections/Conclusion}
+\input{Sections/Develop}
+\input{Sections/Result}
+\input{Sections/Discussion}
+\input{Sections/Conclusion}
 
 \appendix
 
